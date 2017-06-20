@@ -5,5 +5,5 @@
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
 - [ ] CVS by tutorials
-- [ ] Fortan for fun and profit
+- [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
