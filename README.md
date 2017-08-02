@@ -1,3 +1,7 @@
 # rwTODOs
 
-This repo is a collection of TODO lists and ideas for raywenderlich.com
+This is a collection of all things I want to learn about using git. 
+
+-Gottlieb
+
+[@uahengoJnr](https://twitter.com/UahengoJr)
