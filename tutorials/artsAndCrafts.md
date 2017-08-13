@@ -1,2 +1,4 @@
-- Painting
-- Watercolors
+# Arts and Crafts
+
+[ ] Painting
+[ ] Watercolors
