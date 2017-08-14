@@ -1,0 +1,6 @@
+# All HTML files that are not in the root directory
+# */*.html
+
+# All HTML files, but not the ones in the root directory
+*.html
+!/*.html
