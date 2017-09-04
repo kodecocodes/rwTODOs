@@ -7,5 +7,6 @@
 - [x] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
-- [x] Git Tutorial by tutorials
+- [ ] Writing tutorials, by tutorials
+>>>>>>> sammyd/master
 - [ ] 50 Shades of Green
