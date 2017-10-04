@@ -5,6 +5,6 @@
 
 [ ] item1
 [ ] item2
-[ ] item3
+[x] item3
 [ ] item4
 [ ] item5
