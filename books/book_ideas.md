@@ -7,3 +7,5 @@
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
+- [x] Lessons I learned from traveling.
+- [x] tutorials by tutorial.
