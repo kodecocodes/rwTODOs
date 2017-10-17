@@ -9,3 +9,5 @@
 - [x] RxSwift by tutorials
 - [x] Lessons I learned from travels.
 - [x] tutorials by tutorial.
+- [x] Scala Tutorials.
+- [] Snapshot Testing.
