@@ -11,3 +11,4 @@
 - [x] tutorials by tutorial.
 - [x] Scala Tutorials.
 - [] Snapshot Testing.
+- [ ] 50 Shades of Green.
