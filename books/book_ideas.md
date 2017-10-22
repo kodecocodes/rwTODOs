@@ -12,3 +12,4 @@
 - [x] Scala Tutorials.
 - [] Snapshot Testing.
 - [ ] 50 Shades of Green.
+- [x] How to learn quick,fast and effectivly.
