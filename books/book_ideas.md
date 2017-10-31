@@ -7,3 +7,9 @@
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
+- [x] Lessons I learned from travels.
+- [x] tutorials by tutorial.
+- [x] Scala Tutorials.
+- [] Snapshot Testing.
+- [ ] 50 Shades of Green.
+- [x] How to learn quick,fast and effectivly.
