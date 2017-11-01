@@ -6,3 +6,5 @@ Please feel free to pull your own ideas via pull request.
 
 Merging wiht master checkout practice. 
 
+Second Merge wiht master attempt. 
+
