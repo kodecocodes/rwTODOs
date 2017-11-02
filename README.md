@@ -10,3 +10,4 @@ Second Merge wiht master attempt.
 
 Learning how to properly merge. 
 
+Contact [@dennisvera.z@gmail.com]
