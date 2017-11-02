@@ -8,3 +8,5 @@ Merging wiht master checkout practice.
 
 Second Merge wiht master attempt. 
 
+Learning how to properly merge. 
+
