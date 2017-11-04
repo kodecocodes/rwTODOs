@@ -8,3 +8,4 @@ Suggestions for new content to appear as videos:
 - [ ] Coding for the Psion V
 - [ ] Flash for developers
 - [ ] Learn assembly in 10 hours
+- [x] Flash for developers
