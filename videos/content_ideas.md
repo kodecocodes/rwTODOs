@@ -6,4 +6,4 @@ Suggestions for new content to appear as videos:
 - [ ] Mastering git
 - [ ] Getting started with Symbian
 - [ ] Coding for the Psion V
-- [ ] Flash for developers
+- [x] Flash for developers
