@@ -1,0 +1,6 @@
+#all html files
+*.html
+
+# except htmls on root level
+!/*.html
+
