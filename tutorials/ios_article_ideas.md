@@ -5,4 +5,4 @@
 - [ ] The vision framework: Putting the 👁 in iOS
 - [ ] You don't understand ML, so don't pretend you do.
 - [ ] The return of springs and struts
-- [ ] Where have all the indies gone?
+- [x] Where have all the indies gone?
