@@ -3,3 +3,4 @@
 - [ ] Glass blowing
 - [ ] iOS Core Animations
 - [ ] Android alike Input Fields
+- [ ] Felting
