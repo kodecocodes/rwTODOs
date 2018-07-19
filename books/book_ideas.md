@@ -8,3 +8,4 @@ i# Ideas for new book projects
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Writing tutorials, by tutorials
+- [ ] 50 Shades of Green
