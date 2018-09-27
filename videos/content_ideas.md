@@ -7,3 +7,7 @@ Suggestions for new content to appear as videos:
 - [ ] Getting started with Symbian
 - [ ] Coding for the Psion V
 - [ ] Flash for developers
+- [ ] Node.js and react
+- [ ] pure javascript course
+- [ ] css animations
+- [ ] Learn assembly in 10 hours
