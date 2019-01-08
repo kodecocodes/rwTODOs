@@ -9,3 +9,4 @@
 - [x] RxSwift by tutorials
 - [ ] Writing tutorials, by tutorials
 - [ ] Fifty Shades of Green
+- [ ] Sixty Shades of Blue
