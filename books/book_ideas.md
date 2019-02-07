@@ -6,4 +6,5 @@
 - [ ] Beginning tree surgery
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
-- [x] RxSwift by tutorials
+- [x] RxSwift by tutorial
+- [ ] Writing tutorials, by tutorials
