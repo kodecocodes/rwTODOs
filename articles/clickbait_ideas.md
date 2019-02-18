@@ -10,3 +10,4 @@ These articles shouldn't really have any content, but need titles that are irres
 - [ ] Four reasons you should consider switching to Windows 10
 - [ ] The Apple announcement that should worry Swift developers
 - [ ] iOS 12 rumoured to include drop shadows and button-like buttons
+- [ ] new stuff added.
