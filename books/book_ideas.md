@@ -8,3 +8,4 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Writing a love song
+- [ ] 50 Shades of green
