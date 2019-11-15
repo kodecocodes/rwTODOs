@@ -2,7 +2,7 @@
 
 This repo is a collection of TODO lists and ideas for raywenderlich.com
 
-Add one more line
+This line is edited
 
 Please feel free to suggest your own ideas via pull request.
 
