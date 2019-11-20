@@ -7,6 +7,11 @@
 - [x] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
+<<<<<<< HEAD
 - [ ] Writing tutorial, by tutorials
 - [ ] 50 Shades of Green
 - [ ] Learning iOS
+=======
+- [ ] Writing tutorials, by tutorials
+- [ ] 50 Shades of Green
+>>>>>>> Jay-Hong/master
