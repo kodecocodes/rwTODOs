@@ -8,6 +8,7 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [ ] Writing tutorial, by tutorials
 - [ ] 50 Shades of Green
 - [ ] Learning iOS
@@ -15,3 +16,7 @@
 - [ ] Writing tutorials, by tutorials
 - [ ] 50 Shades of Green
 >>>>>>> Jay-Hong/master
+=======
+- [ ] Writing tutorials, by tutorials
+- [x] 50 Shades of Green
+>>>>>>> BACTERIAFISH/master

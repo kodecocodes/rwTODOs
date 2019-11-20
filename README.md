@@ -3,6 +3,7 @@
 This repo is a collection of TODO lists and ideas for raywenderlich.com
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 the author signature is: NEDA
 =======
@@ -12,3 +13,8 @@ Please feel free to suggest your own ideas via pull request.
 
 This line is added on readme_improvement branch and then edited again
 >>>>>>> Jay-Hong/master
+=======
+tahis is test, too
+
+bacteriafish
+>>>>>>> BACTERIAFISH/master
