@@ -17,6 +17,6 @@
 - [ ] 50 Shades of Green
 >>>>>>> Jay-Hong/master
 =======
-- [ ] Writing tutorials, by tutorials
+- [x] Writing tutorials, by tutorials
 - [x] 50 Shades of Green
 >>>>>>> BACTERIAFISH/master
