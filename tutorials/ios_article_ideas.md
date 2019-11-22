@@ -3,6 +3,7 @@
 - [ ] How I learnt to stop complaining and embrace the 10k-line view controller
 - [ ] The rise of the μFramework
 - [ ] The vision framework: Putting the 👁 in iOS
+- [ ] CVS by tutorials
 <<<<<<< HEAD:tutorials/ios_article_ideas.md
 - [ ] You don't understand ML, so don't pretend you do.
 =======
