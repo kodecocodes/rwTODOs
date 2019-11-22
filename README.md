@@ -2,19 +2,6 @@
 
 This repo is a collection of TODO lists and ideas for raywenderlich.com
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-the author signature is: NEDA
-=======
-This line is edited
-
-Please feel free to suggest your own ideas via pull request.
-
-This line is added on readme_improvement branch and then edited again
->>>>>>> Jay-Hong/master
-=======
-tahis is test, too
-
-bacteriafish
->>>>>>> BACTERIAFISH/master
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
