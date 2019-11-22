@@ -11,7 +11,7 @@
 <<<<<<< HEAD
 - [ ] Writing tutorial, by tutorials
 - [ ] 50 Shades of Green
-- [ ] Learning iOS
+- [x] Learning iOS
 =======
 - [ ] Writing tutorials, by tutorials
 - [ ] 50 Shades of Green
