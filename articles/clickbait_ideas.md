@@ -3,7 +3,7 @@
 These articles shouldn't really have any content, but need titles that are irresistible.
 
 - [x] Top-ten iOS interview questions
-- [ ] 8 things you thought you knew about Swift 4
+- [x] 8 things you thought you knew about Swift 4
 - [ ] Swift 5: Everything you need to know
 - [x] Use this one easy trick to survive on 4 hours sleep!
 - [ ] If you're sleeping less than 8 hours then you'll die young.
