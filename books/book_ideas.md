@@ -7,3 +7,6 @@
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
+  [x] Writing tutorials, by tutorials
+  :wq
+
