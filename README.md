@@ -2,6 +2,6 @@
 
 This repo is a collection of TODO lists and ideas for raywenderlich.com
 
-Please feel free to suggest your own ideas by pull requests :)
+Please feel free to suggest your own ideas via pull request
 
-Adding signature - M'Lady
+* insert signature here *
