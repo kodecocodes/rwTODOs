@@ -1,3 +1,7 @@
 # rwTODOs
 
-This repo is a collection of TODO lists and ideas for raywenderlich.com
+This repo is a collection of TODO lists and ideas for raywenderlich.co
+
+Please feel free to suggest your own ideas via pull request.
+
+Contact: blabla@gmail.com
