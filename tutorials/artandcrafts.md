@@ -1,4 +1,4 @@
-ArtAndCrafts
+# ArtAndCrafts Tutorial Ideas
 - [ ] arts
 - [ ] crafts
 
