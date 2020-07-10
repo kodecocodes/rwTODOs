@@ -1,0 +1,3 @@
+- [ ] Desing logo
+- [ ] Design color scheme
+- [ ] etc
