@@ -1,0 +1,3 @@
+- [ ] Papier Mache
+- [ ] Collage
+- [ ] Clay pottery
