@@ -8,3 +8,4 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] New Tuts by Ansh
+- [ ] 50 shades of black
