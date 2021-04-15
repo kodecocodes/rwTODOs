@@ -1,7 +1,7 @@
-# rwTODOs
+# rwTODOs a todo list
 
-This repo is a collection of TODO lists and ideas for raywenderlich.com
+This repo is a collection of TODO lists and ideas for raywenderlich.com.
 
-Please feel free to suggest your own ideas via pull request.
+This project is a part of an online course provided by raywenderlich.com.
 
-This is my signature...
+The course was about learning and using Git in projects. 
