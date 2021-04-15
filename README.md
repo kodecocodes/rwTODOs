@@ -2,6 +2,6 @@
 
 This repo is a collection of TODO lists and ideas for raywenderlich.com.
 
-This project is a part of an online course provided by raywenderlich.com.
+This project is part of an online course provided by raywenderlich.com.
 
 The course was about learning and using Git in projects. 
