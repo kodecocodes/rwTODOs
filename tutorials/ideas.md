@@ -1,4 +1,0 @@
-# IDEAS
-
-- [ ] arts
-- [ ] craft
