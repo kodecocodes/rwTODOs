@@ -1,6 +1,6 @@
 # rwTODOs
 
-
+Test for not fast-forward merge.
 
 This is fast-forward merge test.
 
