@@ -1,3 +1,3 @@
-Create new Arts & Crafts area
-Add first Arts item
-Add first Crafts item
+Create new Arts & Crafts Tutorials Ideas
+[ ] Glass blowing
+[ ] Felting
