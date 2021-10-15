@@ -7,3 +7,5 @@
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
+- [x] Writting Tutorials by tutorials
+- [ ] 50 shades of green
