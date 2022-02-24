@@ -8,3 +8,4 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] play basketball with friends
+- [ ] 50 shades of Ray
