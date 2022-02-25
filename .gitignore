@@ -1,0 +1,5 @@
+#ignore all files that are in the top directory
+# */*.html
+
+#do not ignore files ending with .html
+!/*.html
