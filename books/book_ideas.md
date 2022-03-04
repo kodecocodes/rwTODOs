@@ -8,3 +8,4 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Writing tutorials
+- [ ] 50 Shades of Green
