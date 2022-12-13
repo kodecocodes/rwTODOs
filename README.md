@@ -7,3 +7,5 @@ And clickbait!
 And more clickbait!!!
 
 Feel free to suggest your own ideas via pull request!
+
+Gene Bogdanovich
