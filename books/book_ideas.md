@@ -1,6 +1,6 @@
 # Ideas for new book projects
 
-- [ ] Hotubbing by tutorials
+- [ ] We will rock you
 - [x] Advanced debugging and reverse engineering
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
