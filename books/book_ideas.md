@@ -1,6 +1,6 @@
 # Ideas for new book projects
 
-- [ ] We will rock you
+- [ ] We will be there in a few mins.
 - [x] Advanced debugging and reverse engineering
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
