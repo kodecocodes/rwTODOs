@@ -5,7 +5,7 @@
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
 - [ ] Blah Blah
-- [x] Fortran for fun and profit
+- [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 <<<<<<< HEAD
 - [ ] I'm on the next Level
