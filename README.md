@@ -12,4 +12,4 @@ i guess git will find the different editions in the branches of master and REWDM
 
 This repo is a collection of TODO lists and ideas for raywenderlich.com
 
-Orton Hsieh
+[Orton Hsieh](www.google.com)
