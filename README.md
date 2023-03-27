@@ -11,3 +11,5 @@ this time i first make a commit on another branch (REWDME.md_imrpovement) then s
 i guess git will find the different editions in the branches of master and REWDME.md_improvement
 
 This repo is a collection of TODO lists and ideas for raywenderlich.com
+
+Orton Hsieh
