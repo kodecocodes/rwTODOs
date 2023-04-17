@@ -1,4 +1,0 @@
-- [ ] Tutorials book, by markdown
-- [ ] I Love you 3000, by MV
-- [ ] The real BLAH BLAH, by ME
-- [ ] All things you should know about ME, blah blah
