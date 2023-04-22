@@ -5,7 +5,7 @@
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
 - [x] CVS by tutorials
-- [ ] Fortran for fun and profit
+- [x] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Writing tutorials , by tutorials
 - [ ] 50 shades of Green
