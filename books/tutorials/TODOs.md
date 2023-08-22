@@ -1,5 +1,5 @@
 # Arts and Crafts ideas
-- Origami
-- Paper Mache
-- Building Small Houses
-- Sculpture Making
+- [ ] Origami
+- [ ] Paper Mache
+- [ ] Building Small Houses
+- [ ] Sculpture Making
