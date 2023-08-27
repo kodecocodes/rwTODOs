@@ -8,4 +8,4 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
   [ ] Write tutorials
-
+  [ ] 50 seeds
