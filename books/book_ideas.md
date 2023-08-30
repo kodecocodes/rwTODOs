@@ -4,7 +4,7 @@
 - [x] Advanced debugging and reverse engineering
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
-- [ ] CVS by tutorials
+- [x] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] xSwift by tutorials
 - [x] draw trigonomotry idea with swift
