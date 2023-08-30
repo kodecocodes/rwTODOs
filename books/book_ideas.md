@@ -6,4 +6,5 @@
 - [ ] Beginning tree surgery
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
-- [x] RxSwift by tutorials
+- [x] RXSwift by tutorials
+- [x] draw trigonomotry idea with swift
